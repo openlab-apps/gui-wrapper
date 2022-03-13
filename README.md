@@ -1,4 +1,4 @@
-# api-wrapper
+# gui-wrapper: Wrap that clunky department website into a structured openlab API
 ## Problem
 Many computational life science tools are scattered around the web and take their input using poorly designed GUIs. Often these GUIs also do not support the processing of jobs containing multiple requests.
 
